@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Lesson1 {
+public class Funculator {
 
 	public static void main(String[] args) {
 		
